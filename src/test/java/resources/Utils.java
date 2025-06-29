@@ -21,6 +21,7 @@ public class Utils {
 	public RequestSpecification requestSpecification() throws IOException
 	{
 		System.out.println("A+B+C");
+		System.out.println("E+F+G");
 		
 		if(req==null)
 		{
