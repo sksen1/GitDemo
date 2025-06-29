@@ -20,6 +20,7 @@ public class Utils {
 	public static RequestSpecification req;
 	public RequestSpecification requestSpecification() throws IOException
 	{
+		System.out.println("A+B+C");
 		
 		if(req==null)
 		{
