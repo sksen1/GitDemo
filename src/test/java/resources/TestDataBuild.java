@@ -21,6 +21,12 @@ public class TestDataBuild {
         p.setWebsite("http://google.com");
     //  p.setName("Frontline house");
         p.setName(name);
+        System.out.println("ABC");
+        System.out.println("ABC");
+        System.out.println("ABC");
+        System.out.println("ABC");
+        System.out.println("ABC");
+        System.out.println("ABC");
 
         List<String> myList = new ArrayList<>();
         myList.add("shoe park");
