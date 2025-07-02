@@ -32,6 +32,14 @@ public class TestDataBuild {
         myList.add("shoe park");
         myList.add("shop");
         p.setTypes(myList);
+        
+        System.out.println("Code is working properly--");
+        
+        System.out.println("Code is working properly--");
+        
+        System.out.println("Code is working properly--");
+        
+        System.out.println("Code is working properly--");
 
         Location l = new Location();
         l.setLat(-38.383494);
